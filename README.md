@@ -8,4 +8,4 @@ IPython Notebook on data wrangling and analysis, leveraging a dataset about Poke
 
 ## Where did the data come from?
 
-The data referenced in the notebook is from https://github.com/veekun/pokedex.
+The data referenced in the notebook is from https://www.kaggle.com/abcsds/pokemon
